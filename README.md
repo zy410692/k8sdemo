@@ -6,3 +6,7 @@
 
 3 删除namespace下所有资源
 kubectl delete namespace default --grace-period=0 --force
+
+4 kuboard这个UI挺好用的 
+/1 pod的文件浏览器功能
+/2 终端的日志功能--日志下载全部比较麻烦
