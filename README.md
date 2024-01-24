@@ -25,3 +25,5 @@ FROM parent
 ENTRYPOINT ["/bin/bash"]
 
 docker build -t parent .
+
+## 7 kubernetes里面的imagepullpolicy:always是怎么实现的？
