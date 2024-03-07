@@ -27,3 +27,4 @@ ENTRYPOINT ["/bin/bash"]
 docker build -t parent .
 
 ## 7 kubernetes里面的imagepullpolicy:always是怎么实现的？
+## 8 k8s动态准入控制器
